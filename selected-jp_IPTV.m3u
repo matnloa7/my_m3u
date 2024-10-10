@@ -70,10 +70,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&b
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (primehome)
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (720p djtmewibu)
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 
-#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TSS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島
+#EXTINF:-1 group-title="Test/Terrestrial" tvg-id="TSS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島 (720p djtmewibu)
 http://r3jx.djtmewibu.com/tss/index.m3u8
 
 #BS1 (720p)
